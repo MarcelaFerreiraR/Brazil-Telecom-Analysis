@@ -1,4 +1,4 @@
-Telecom Starlink Brazil Market Analysis
+Telecom Brazil Market Analysis
 
 
 Project Overview
