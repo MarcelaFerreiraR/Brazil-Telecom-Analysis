@@ -1,4 +1,6 @@
 Telecom Starlink Brazil Market Analysis
+
+
 Project Overview
 This R-based data analysis project evaluates Telecom market presence in Brazil, identifying service gaps and potential expansion opportunities. By analyzing telecommunications data from ANATEL (Brazilian National Telecommunications Agency) alongside population statistics, the project provides strategic insights into underserved municipalities and competitive market dynamics.
 Features
